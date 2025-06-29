@@ -1,0 +1,21 @@
+{
+  "name": "webtravel-319-backend",
+  "version": "1.0.0",
+  "description": "Backend for webtravel-319 project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Benjamin Spahić",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^6.13.8",
+    "webtravel-319-backend": "file:"
+  }
+}
