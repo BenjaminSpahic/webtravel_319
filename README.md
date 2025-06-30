@@ -38,7 +38,8 @@ Instaliraj potrebne pakete:
 
 
 npm install
-Kreiraj .env fajl u folderu backend sa sljedećim varijablama (prilagodi vrijednosti prema svojoj konfiguraciji):
+
+Kreiraj .env fajl u folderu backend sa sljedećim varijablama:
 
 env
 Copy
@@ -128,5 +129,3 @@ GET http://localhost:5000/api/travels/1/reviews
 Rezervacije:
 POST http://localhost:5000/api/bookings
 
-Zaključak
-Ovaj README pruža osnovne upute kako pokrenuti aplikaciju na lokalnom računaru. Za dodatne informacije ili pomoć, slobodno se obratite
